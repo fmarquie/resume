@@ -1,6 +1,6 @@
 # Florent Marquier
 
-## Lead developer JAVA on the search engine
+## Lead developer JAVA on a search engine
 
 # Experience
 
